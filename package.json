@@ -33,7 +33,7 @@
     "grunt": ">=0.4.0"
   },
   "dependencies": {
-    "lodash": "^4.5.0",
+    "lodash": "git://github.com/lodash/lodash.git",
     "preprocess": "^3.0.2"
   },
   "devDependencies": {

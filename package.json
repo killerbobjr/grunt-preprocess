@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jsoverson/grunt-preprocess.git"
+    "url": "https://github.com/jsoverson/grunt-preprocess.git"
   },
   "bugs": {
     "url": "https://github.com/jsoverson/grunt-preprocess/issues"
@@ -33,7 +33,7 @@
     "grunt": ">=0.4.0"
   },
   "dependencies": {
-    "lodash": "git://github.com/lodash/lodash.git",
+    "lodash": "https://github.com/lodash/lodash.git",
     "preprocess": "^3.0.2"
   },
   "devDependencies": {
